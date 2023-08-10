@@ -82,7 +82,11 @@ const config = {
   externalProjects: [],
 
   // Display blog posts from your medium or dev account. (Optional)
-  blog: {},
+  blog: {
+    source: 'medium', // medium | dev
+    username: '@peagahvieira2003', // to hide blog section, keep it empty
+    limit: 5, // How many posts to display. Max is 10.
+  },
 
   googleAnalytics: {},
 
