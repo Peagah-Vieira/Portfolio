@@ -3,7 +3,7 @@
 const config = {
   github: {
     username: 'Peagah-Vieira', // Your GitHub org/user name. (Required)
-    sortBy: 'updated', // stars | updated
+    sortBy: 'stars', // stars | updated
     limit: 8, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
@@ -27,24 +27,25 @@ const config = {
 
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1JB0MjHjJuiVwiMP-zcFUYByIoQgiRsvQ/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1pc7MsJyUMf_i4PLFPIigBRrkV0pdKf64/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
 
   skills: [
+    'Python',
+    'Django',
+    'PostgreSQL',
+    'Docker',
+    'Mysql',
+    'MongoDB',
+    'PHP',
+    'Laravel',
+    'Bootstrap',
+    'Tailwind',
+    'postman',
+    'selenium',
     'HTML',
     'CSS',
     'JavaScript',
-    'PHP',
-    'Laravel',
-    'Python',
-    'Django',
-    'Bootstrap',
-    'Tailwind',
-    'Mysql',
-    'PostgreSQL',
-    'MongoDB',
-    'Docker',
-    'Git',
   ],
 
   experiences: [
@@ -58,14 +59,24 @@ const config = {
 
   certifications: [
     {
+      name: 'Curso de Python',
+      year: 'Concluido 07/2024 - Udemy',
+      link: 'https://www.udemy.com/certificate/UC-3630ad73-1fe4-4bf0-8974-0e69318ac1f4/'
+    },
+    {
       name: 'Curso de Django Web Framework e Django Rest Framework',
       year: 'Concluido 07/2023 - Udemy',
-      link: 'https://drive.google.com/file/d/1z_lSSdXcPZGofOLrKvfOaOBjKnSC1-Y8/view'
+      link: 'https://www.udemy.com/certificate/UC-566d06fd-0cb3-4d79-bf0f-2541142afb3f/'
+    },
+    {
+      name: 'Curso de Docker',
+      year: 'Concluido 07/2024 - Udemy',
+      link: 'https://www.udemy.com/certificate/UC-98a537f0-36af-459e-a0b9-ea34f640c4e9/'
     },
     {
       name: 'Gestão Ágil com Scrum',
       year: 'Concluido 07/2023 - Udemy',
-      link: 'https://drive.google.com/file/d/1JMY4RlTbERADpmHB1vIEZg6UoR2D_a4X/view'
+      link: 'https://www.udemy.com/certificate/UC-0391393a-ab00-4e3d-a95a-10c742993954/'
     },
   ],
 
