@@ -70,7 +70,7 @@ const config = {
     },
     {
       name: 'Curso de SQL e PostgreSQL',
-      year: 'Concluido 07/2023 - Udemy',
+      year: 'Concluido 07/2024 - Udemy',
       link: 'https://www.udemy.com/certificate/UC-b7d80fa7-4142-425f-95d1-6a07df31832d/'
     },
     {
