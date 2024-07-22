@@ -69,6 +69,11 @@ const config = {
       link: 'https://www.udemy.com/certificate/UC-566d06fd-0cb3-4d79-bf0f-2541142afb3f/'
     },
     {
+      name: 'Curso de SQL e PostgreSQL',
+      year: 'Concluido 07/2023 - Udemy',
+      link: 'https://www.udemy.com/certificate/UC-b7d80fa7-4142-425f-95d1-6a07df31832d/'
+    },
+    {
       name: 'Curso de Docker',
       year: 'Concluido 07/2024 - Udemy',
       link: 'https://www.udemy.com/certificate/UC-98a537f0-36af-459e-a0b9-ea34f640c4e9/'
